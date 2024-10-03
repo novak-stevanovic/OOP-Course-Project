@@ -1,0 +1,27 @@
+main_category,item_type_categories,0,Main Category
+crops,main_category,0,Crops
+animal_products,main_category,1,Animal Products
+vegetables,crops,1,Vegetables
+fruits,crops,1,Fruits
+yellow_fruits,fruits,1,Yellow Fruits
+grains,crops,1,Grains
+cereal,crops,1,Cereal
+measurement_category,item_type_categories,0,Measurement Category
+per_kg,measurement_category,1,Per kg
+per_piece,measurement_category,1,Per piece
+processing_method_category,item_type_categories,0,Processing Method
+raw,processing_method_category,1,Raw
+processed,processing_method_category,1,Processed
+semi_processed,processing_method_category,1,Semi-Processed
+expiration_date_category,item_type_categories,0,Expiration Date Category
+fresh,expiration_date_category,1,Fresh
+long_term,expiration_date_category,1,Long-Term
+other_category,item_type_categories,0,Other
+traditional,other_category,1,Traditional
+organic_category,item_categories,0,Organic Category
+organic,organic_category,1,Organic
+non_organic,organic_category,1,Non-Organic
+mixed_organic,organic_category,1,Partially Organic
+other,item_categories,0,Other
+premium_quality,other,1,Premium Quality
+light_yellow_fruits,yellow_fruits,1,Light Yellow Fruits

@@ -1,0 +1,8 @@
+potatoes,Potatoes,vegetables,per_kg,raw,fresh
+tomatoes,Tomatoes,vegetables,per_kg,raw,fresh
+watermelon,Watermelon,fruits,per_piece,raw,fresh
+bananas,Bananas,yellow_fruits,per_kg,raw,fresh
+rice,Rice,grains,per_kg,raw,fresh
+frozen_potatoes,Frozen Potatoes,vegetables,per_kg,semi_processed,long_term
+pasteurized_milk,Pasteurized Milk,animal_products,processed,fresh
+feta_cheese,Feta Cheese,animal_products,processed,fresh,traditional
